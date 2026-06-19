@@ -24,4 +24,4 @@ If an idea pops up in my head, chances are I'll build it and ship it here :)
 
 ---
 
-*Always building.*
+*Always learning and building.*
