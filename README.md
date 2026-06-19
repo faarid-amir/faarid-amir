@@ -1,7 +1,10 @@
 # Hey, I'm Faarid 👋
 
 CS student exploring frontend development and the world of AI/ML.  
+
 I like building things for the web and figuring out how intelligent systems work.
+
+If an idea pops up in my head, chances are I'll build it and ship it here :)
 
 ---
 
