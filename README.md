@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Faarid 👋
 
-<!--
-**faarid-amir/faarid-amir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student exploring frontend development and the world of AI/ML.  
+I like building things for the web and figuring out how intelligent systems work.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I work with
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+---
+
+### 📬 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faarid-amir-shaikh-0594aa380/)
+
+---
+
+*Currently learning. Always building.*
